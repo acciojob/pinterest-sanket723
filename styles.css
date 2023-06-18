@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.image{
+	object-fit:contain;
+/* 	margin-right:"10px"; */
+	padding-right:20px
+}
+
+.hero{
+	display:flex;
+}
+/* 
+.button{
+	background-color: #4CAF50;
+} */
